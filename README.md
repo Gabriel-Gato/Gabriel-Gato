@@ -15,7 +15,6 @@ Sou apaixonado por tecnologia, programação e resolver problemas reais com cód
 
 ## 📊 Minhas estatísticas no GitHub
 
-![Gabriel’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Gato&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Gato&layout=compact&theme=tokyonight)
 
 ---
